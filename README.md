@@ -1,59 +1,49 @@
-# 👋 Hi, I’m Anas
-
-I’m a beginner programmer currently studying full-time to become a **full-stack developer**. I’m learning **HTML, CSS, and the basics of JavaScript**, and I’m passionate about building web applications and improving my coding skills every day.  
+# 👋 Hi, I’m Anas Hawwash
+[cite_start]I am a highly motivated **Junior Developer** with over 1,200 hours of intensive training in **Python and Java**. [cite: 1, 4] [cite_start]I recently completed a Full-Stack Developer program at Axsos Academy, where I transitioned from a background in Physical Therapy to pursue my passion for technical problem-solving and API development. [cite: 5, 6, 23]
 
 ---
 
-### 🛠 Skills
-
-**Programming Languages:**  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+### 🛠 Technical Skills
+**Languages & Databases** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+[cite_start]![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) [cite: 9, 10]
 
-**Tools & Platforms:**  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-
-**Frameworks & Libraries:**  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+**Frameworks & Libraries** ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+[cite_start]![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=google-cloud&logoColor=white) [cite: 10]
 
 ---
 
-### 📝 Before Programming
+### 📂 Featured Projects
+[cite_start]**[MAAK - AI PC Builder & Price Comparator](https://github.com/YourUsername/MAAK)** [cite: 12]
+* [cite_start]Developed a Django-based backend following **MTV architecture** for data processing. [cite: 13]
+* [cite_start]Integrated **Google AI** to provide intelligent PC part recommendations based on budget. [cite: 14]
+* [cite_start]Utilized external APIs to fetch real-time pricing from multiple retailers. [cite: 15]
 
-Before starting my programming journey, I was a college student at **An-Najah University**, studying **Physical Therapy** for the past three years. I also tried to become a **beekeeper**, and I was successful for two years. However, I realized there was a gap between what I was studying and what I really wanted to do. That’s why I started learning programming. My first course was **CS50 from Harvard**, which sparked my passion for coding and web development.  
-
----
-
-### 📂 Projects
-
-**1. [DojoWeather](#)**  
-A simple weather interface project built using **HTML, CSS, and JavaScript**. This project helped me practice **creating layouts and interactive elements** without relying on frameworks.  
-
-**2. [Calculator](#)**  
-A basic HTML calculator where I implemented the **logic using JavaScript** and styled the design with **CSS**. This project taught me how to **combine design and functionality** in web development.  
-
-**3. [HTML, CSS, and JS Exam](#)**  
-Completed a practical exam on **CSS and JavaScript** with excellent results. This project demonstrates my ability to **apply styling and interactivity concepts** learned during my studies.  
-
-*(Replace `#` with your GitHub project links if available)*  
+[cite_start]**[Maslahaati - Industrial Services Platform](https://github.com/YourUsername/Maslahaati)** [cite: 17]
+* [cite_start]Built a service marketplace backend using **Spring Boot** connecting clients with certified professionals. [cite: 18]
+* [cite_start]Implemented role-based access, bidding systems, and **secure REST APIs** for status updates. [cite: 19, 20]
+* [cite_start]Focused on scalability and reliability for real-world service operations. [cite: 21]
 
 ---
 
-### 🎯 Future Goals
-
-- Become a confident **full-stack developer** by mastering both **front-end (HTML, CSS, JavaScript, frameworks)** and **back-end technologies**.  
-- Build **real-world web applications** that cover both client-side and server-side development.  
-- Learn and strengthen skills in **databases, server-side programming, and deployment**.  
-- Contribute to **open-source projects** and collaborate with other developers to gain practical experience.  
+### 🎓 Education & Achievements
+* **Full-Stack Developer Certificate** | [cite_start]Axsos Academy (2025) [cite: 23, 24]
+    * 1,200+ coding hours; [cite_start]100+ hours of Algorithms & Data Structures. [cite: 24]
+    * [cite_start]**Top Performer:** Ranked highly based on coding assessments and technical progress. [cite: 27]
+    * [cite_start]**OOP Specialist:** Delivered a top-tier presentation on Object-Oriented Programming fundamentals. [cite: 26]
+* **Bachelor of Physical Therapy** | [cite_start]An-Najah National University. [cite: 28]
 
 ---
 
-### 💡 Personal Note  
+### 💡 Soft Skills & Leadership
+* [cite_start]**Analytical Mindset:** I apply the same diagnostic rigor from my medical background to debugging and system design. [cite: 5, 6]
+* [cite_start]**Leadership:** Managed over 80 students and coordinated logistics as a Student Club Manager. [cite: 30, 31, 32]
 
-Besides coding, I have a curious and adventurous spirit. I was a **beekeeper for two years**, and before that, I studied **Physical Therapy** at An-Najah University. I enjoy **learning new technologies, solving problems, and building projects** that challenge me. I’m always motivated to **grow as a developer** and explore the endless possibilities in the world of programming.  
+---
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/anas-hawwash) | [Email](mailto:hawwash.anas@gmail.com) | [cite_start][GitHub](https://github.com/YourUsername) [cite: 2]
