@@ -1,1 +1,47 @@
-# 👋 Hi, I’m Anas I’m a beginner programmer currently studying full-time to become a **full-stack developer**. I’m learning **HTML, CSS, and the basics of JavaScript**, and I’m passionate about building web applications and improving my coding skills every day. --- ### 🛠 Skills **Programming Languages:** ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) **Tools & Platforms:** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white) **Frameworks & Libraries:** ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) --- ### 📝 Before Programming Before starting my programming journey, I was a college student at **An-Najah University**, studying **Physical Therapy** for the past three years. I also tried to become a **beekeeper**, and I was successful for two years. However, I realized there was a gap between what I was studying and what I really wanted to do. That’s why I started learning programming. My first course was **CS50 from Harvard**, which sparked my passion for coding and web development. --- ### 📂 Projects **1. [DojoWeather](#)** A simple weather interface project built using **HTML, CSS, and JavaScript**. This project helped me practice **creating layouts and interactive elements** without relying on frameworks. **2. [Calculator](#)** A basic HTML calculator where I implemented the **logic using JavaScript** and styled the design with **CSS**. This project taught me how to **combine design and functionality** in web development. **3. [HTML, CSS, and JS Exam](#)** Completed a practical exam on **CSS and JavaScript** with excellent results. This project demonstrates my ability to **apply styling and interactivity concepts** learned during my studies. *(Replace # with your GitHub project links if available)* --- ### 🎯 Future Goals - Become a confident **full-stack developer** by mastering both **front-end (HTML, CSS, JavaScript, frameworks)** and **back-end technologies**. - Build **real-world web applications** that cover both client-side and server-side development. - Learn and strengthen skills in **databases, server-side programming, and deployment**. - Contribute to **open-source projects** and collaborate with other developers to gain practical experience. --- ### 💡 Personal Note Besides coding, I have a curious and adventurous spirit. I was a **beekeeper for two years**, and before that, I studied **Physical Therapy** at An-Najah University. I enjoy **learning new technologies, solving problems, and building projects** that challenge me. I’m always motivated to **grow as a developer** and explore the endless possibilities in the world of programming.
+# 👋 Hi, I’m Anas Hawwash
+
+[cite_start]I am a highly motivated **Junior Developer** with extensive training (1,200+ hours) in **Python and Java**[cite: 4]. [cite_start]My transition from **Physical Therapy** was a strategic decision, driven by a desire for continuous technical challenge and a forward-thinking mindset for solving coding problems[cite: 5, 6]. [cite_start]I am proficient in API development and excel in team environments[cite: 6, 7].
+
+---
+
+### 🛠 Technical Skills
+* [cite_start]**Languages:** JavaScript, Python, Java, HTML, CSS[cite: 9].
+* [cite_start]**Databases:** MySQL, SQLite[cite: 9].
+* [cite_start]**Libraries & Frameworks:** Django, Spring Boot, TailwindCSS, AJAX, REST API, MongoDB, Django Rest Framework (DRF)[cite: 10].
+
+---
+
+### 📂 Featured Projects
+
+#### **MAAK - AI PC Builder & Price Comparator**
+* [cite_start]Developed backend features using **Django** following the MTV architecture[cite: 13].
+* [cite_start]Integrated **Google AI** to create an intelligent "Build Your PC" feature[cite: 14].
+* [cite_start]Integrated external APIs to fetch real-time product and pricing data from multiple retailers[cite: 15].
+* [cite_start]Supported front-end development using **TailwindCSS** for a responsive user experience[cite: 16].
+
+#### **Maslahaati - Industrial Services Freelance Platform**
+* [cite_start]Built backend services using **Spring Boot** to connect homeowners with certified professionals[cite: 18].
+* [cite_start]Implemented user authentication, role-based access, job posting, bidding, and rating systems[cite: 19].
+* [cite_start]Developed secure **REST APIs** for service requests and status updates[cite: 20].
+* [cite_start]Focused on system security, reliability, and scalability for real-world operations[cite: 21].
+
+---
+
+### 🎓 Education & Training
+* **Full-Stack Developer Certificate** | [cite_start]Axsos Academy, Ramallah [cite: 23]
+    * [cite_start]16-week immersive Bootcamp with 1,200+ coding hours and 100+ hours of algorithms[cite: 24].
+    * [cite_start]Delivered one of the top OOP presentations[cite: 26].
+    * [cite_start]Ranked as one of the top performers based on coding assessments and technical progress[cite: 27].
+* **Bachelor of Physical Therapy** | [cite_start]An-Najah National University[cite: 28].
+
+---
+
+### 🌟 Leadership & Experience
+* [cite_start]**Student Club Manager:** Supervised over 80 students and coordinated logistics for university events to ensure seamless processes[cite: 30, 31, 32].
+
+---
+
+### 📫 Let's Connect
+* [cite_start]**Email:** hawwash.anas@gmail.com [cite: 2]
+* [cite_start]**LinkedIn:** [Anas Hawwash](https://www.linkedin.com/in/anas-hawwash) [cite: 2]
+* [cite_start]**Location:** Palestine [cite: 2]
