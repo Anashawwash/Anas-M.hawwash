@@ -121,6 +121,6 @@ I enjoy working on **backend systems, APIs, and full-stack projects**, and I’m
 
 ## 📫 Contact
 
-- 📧 Email: hawwash.anas@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/anas-hawash-8ab966376/
+- 📧 Email: hawwashanas@gmail.com
+- 💼 LinkedIn: [https://www.linkedin.com/in/anas-hawash-8ab966376/](https://www.linkedin.com/in/anas-hawash-8ab966376/)
 - 💻 GitHub: https://github.com/Anashawwash
