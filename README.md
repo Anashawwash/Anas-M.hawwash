@@ -1,47 +1,126 @@
+
 # 👋 Hi, I’m Anas Hawwash
 
-[cite_start]I am a highly motivated **Junior Developer** with extensive training (1,200+ hours) in **Python and Java**[cite: 4]. [cite_start]My transition from **Physical Therapy** was a strategic decision, driven by a desire for continuous technical challenge and a forward-thinking mindset for solving coding problems[cite: 5, 6]. [cite_start]I am proficient in API development and excel in team environments[cite: 6, 7].
+I’m a **Junior Full-Stack Developer** with **1,200+ hours of intensive training** in software development.  
+I transitioned from **Physical Therapy** to programming after discovering my passion for **problem-solving, logic, and building real-world applications**.
+
+I enjoy working on **backend systems, APIs, and full-stack projects**, and I’m always improving my skills through practice and projects.
 
 ---
 
-### 🛠 Technical Skills
-* [cite_start]**Languages:** JavaScript, Python, Java, HTML, CSS[cite: 9].
-* [cite_start]**Databases:** MySQL, SQLite[cite: 9].
-* [cite_start]**Libraries & Frameworks:** Django, Spring Boot, TailwindCSS, AJAX, REST API, MongoDB, Django Rest Framework (DRF)[cite: 10].
+## 🧠 Summary
+
+- Junior Full-Stack Developer (Python, Java, JavaScript)
+- Strong backend and API development skills
+- Experience with databases and RESTful systems
+- Team-oriented with leadership and organization experience
+- Motivated, disciplined, and eager to grow
 
 ---
 
-### 📂 Featured Projects
+## 🛠 Technical Skills
 
-#### **MAAK - AI PC Builder & Price Comparator**
-* [cite_start]Developed backend features using **Django** following the MTV architecture[cite: 13].
-* [cite_start]Integrated **Google AI** to create an intelligent "Build Your PC" feature[cite: 14].
-* [cite_start]Integrated external APIs to fetch real-time product and pricing data from multiple retailers[cite: 15].
-* [cite_start]Supported front-end development using **TailwindCSS** for a responsive user experience[cite: 16].
-
-#### **Maslahaati - Industrial Services Freelance Platform**
-* [cite_start]Built backend services using **Spring Boot** to connect homeowners with certified professionals[cite: 18].
-* [cite_start]Implemented user authentication, role-based access, job posting, bidding, and rating systems[cite: 19].
-* [cite_start]Developed secure **REST APIs** for service requests and status updates[cite: 20].
-* [cite_start]Focused on system security, reliability, and scalability for real-world operations[cite: 21].
+### 💻 Programming Languages
+- JavaScript
+- Python
+- Java
+- C
+- HTML
+- CSS
 
 ---
 
-### 🎓 Education & Training
-* **Full-Stack Developer Certificate** | [cite_start]Axsos Academy, Ramallah [cite: 23]
-    * [cite_start]16-week immersive Bootcamp with 1,200+ coding hours and 100+ hours of algorithms[cite: 24].
-    * [cite_start]Delivered one of the top OOP presentations[cite: 26].
-    * [cite_start]Ranked as one of the top performers based on coding assessments and technical progress[cite: 27].
-* **Bachelor of Physical Therapy** | [cite_start]An-Najah National University[cite: 28].
+### 🧩 Frameworks & Libraries
+- Django
+- Django REST Framework (DRF)
+- Spring Boot
+- Tailwind CSS
+- Bootstrap
+- AJAX
+- REST API
 
 ---
 
-### 🌟 Leadership & Experience
-* [cite_start]**Student Club Manager:** Supervised over 80 students and coordinated logistics for university events to ensure seamless processes[cite: 30, 31, 32].
+### 🗄 Databases
+- MySQL
+- SQLite
+- MongoDB
 
 ---
 
-### 📫 Let's Connect
-* [cite_start]**Email:** hawwash.anas@gmail.com [cite: 2]
-* [cite_start]**LinkedIn:** [Anas Hawwash](https://www.linkedin.com/in/anas-hawwash) [cite: 2]
-* [cite_start]**Location:** Palestine [cite: 2]
+### 🧰 Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- MySQL Workbench
+
+---
+
+## 🚀 Technical Projects
+
+### 🖥️ MAAK – AI PC Builder & Price Comparator
+**GitHub:** https://github.com/Anashawwash/MAAK
+
+- Developed backend features using **Django (MTV architecture)**
+- Integrated **Google AI** to recommend PC parts based on user budget
+- Connected external APIs to fetch **real-time pricing data**
+- Supported frontend development using **Tailwind CSS**
+- Focused on clean code and real-world business logic
+
+---
+
+### 🛠 Maslahaati – Industrial Services Freelance Platform
+**GitHub:** https://github.com/Anashawwash/Maslahati
+
+- Built backend services using **Spring Boot**
+- Implemented **REST APIs** for authentication and service management
+- Designed role-based access (clients & providers)
+- Developed job posting, bidding, tracking, and rating systems
+- Focused on security, scalability, and reliability
+
+---
+
+## 🎓 Education
+
+### Axsos Academy – Full-Stack Developer Certificate  
+**Ramallah, Palestine | Aug 2025 – Dec 2025**
+
+- 16-week immersive bootcamp
+- **1200+ coding hours**
+- Algorithms & Data Structures
+- Group projects, LeetCode, HackerRank
+
+**Achievements**
+- Delivered one of the top OOP presentations
+- Ranked among top performers based on assessments and projects
+
+---
+
+### Bachelor of Physical Therapy  
+**An-Najah National University – Nablus, Palestine**
+
+---
+
+## 🧭 Background
+
+- Former Physical Therapy student
+- Beekeeper for 2 years
+- Strong discipline, patience, and analytical thinking
+- Excellent teamwork and organizational skills
+
+---
+
+## 🎯 Future Goals
+
+- Become a strong **Backend / Full-Stack Engineer**
+- Master scalable systems and databases
+- Build production-level applications
+- Contribute to open-source projects
+
+---
+
+## 📫 Contact
+
+- 📧 Email: hawwash.anas@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/anas-hawash-8ab966376/
+- 💻 GitHub: https://github.com/Anashawwash
