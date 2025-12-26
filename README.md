@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m Anas Hawwash
 
-I’m a **Junior Full-Stack Developer** with **1,200+ hours of intensive training** in software development.  
+I’m a Full-Stack Developer** with **1,200+ hours of intensive training** in software development.  
 I transitioned from **Physical Therapy** to programming after discovering my passion for **problem-solving, logic, and building real-world applications**.
 
 I enjoy working on **backend systems, APIs, and full-stack projects**, and I’m always improving my skills through practice and projects.
