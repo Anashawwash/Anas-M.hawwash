@@ -39,6 +39,7 @@ I enjoy working on **backend systems, APIs, and full-stack projects**, and I’m
 - AJAX
 - React.js
 - Flask
+- Express
 
 ---
 
