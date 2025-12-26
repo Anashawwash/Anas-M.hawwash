@@ -10,7 +10,7 @@ I enjoy working on **backend systems, APIs, and full-stack projects**, and I’m
 
 ## 🧠 Summary
 
-- Junior Full-Stack Developer (Python, Java, JavaScript)
+- Full-Stack Developer (Python, Java, JavaScript)
 - Strong backend and API development skills
 - Experience with databases and RESTful systems
 - Team-oriented with leadership and organization experience
