@@ -1,10 +1,8 @@
 
 # 👋 Hi, I’m Anas Hawwash
 
-I’m a Full-Stack Developer** with **1,200+ hours of intensive training** in software development.  
-I transitioned from **Physical Therapy** to programming after discovering my passion for **problem-solving, logic, and building real-world applications**.
+Junior Full Stack Developer with over one year of experience using Python, Java, JavaScript, and Node.js. Experienced in building backend systems and REST APIs with Django REST Framework (DRF), Spring Boot, and Express.js, and developing responsive frontend interfaces using React.js and TailwindCSS. Background in Physical Therapy with strong analytical thinking, discipline, and teamwork skills. Seeking a Junior Full Stack or Backend Developer role to continue learning and contributing to real world projects.
 
-I enjoy working on **backend systems, APIs, and full-stack projects**, and I’m always improving my skills through practice and projects.
 
 ---
 
